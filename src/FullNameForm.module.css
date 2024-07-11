@@ -1,0 +1,33 @@
+.fullnameform {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
